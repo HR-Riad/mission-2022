@@ -23,12 +23,56 @@ span{
 .Explore-now-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 10px 30px;
+    padding: 10px 20px ;
     border-radius: 5px;
     color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
     font-weight: 700;
 }
 .flexible-container{
     display: flex;
     margin: 130px;
+}
+#My-Mission-in-2022-title{
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+}
+#left-card-mission22{
+    width: 30%;
+    margin-right:4%;
+    margin-left: 10%;
+    border-radius: 20px;
+    padding: 20px;
+    background-color:paleturquoise;
+}
+#middle-card-mission22{
+    width: 30%;
+    margin-right:4%;
+    margin-left:4%;
+    border-radius: 20px;
+    padding: 20px;
+   background-color: plum;
+}
+#right-card-mission22{
+    width: 30%;
+    margin-left: 4%;
+    margin-right:10%;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: peachpuff;
+}
+#left-card-mission22 img{
+    width: 70%;
+
+}
+#middle-card-mission22 img{
+    width: 70%;
+
+}
+#right-card-mission22 img{
+    width: 70%;
+
 }
