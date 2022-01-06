@@ -76,3 +76,21 @@ h2{
     width: 70%;
 
 }
+.develop-without-limits{
+
+}
+.develop-without-limits img{
+    width: 80%;
+
+}
+.Read-the-Documentation-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px ;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 700;
+
+}
